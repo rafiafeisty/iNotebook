@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.signup {
+  background-color: red;
+  min-height: 100vh; /* Ensure it covers the full height of the viewport */
+  padding: 2rem; /* Optional: Adds some padding around the form */
+}
+

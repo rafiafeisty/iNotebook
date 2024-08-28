@@ -1,0 +1,20 @@
+// Import Bootstrap's functions, variables, and mixins
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// Define custom color variables using Bootstrap's color map
+$custom-login-color: $red-300; // Red-300 color for login button
+$custom-signup-bg-color: $red-300; // Red-300 background color for signup button
+$custom-signup-text-color: $white; // White text color for signup button
+
+// Apply custom styles using Bootstrap's button mixins and remove borders
+.custom-login {
+  @include button-variant($custom-login-color, $white);
+  border-color: transparent; // Remove the border color
+}
+
+.custom-signup {
+  @include button-variant($custom-signup-bg-color, $custom-signup-text-color);
+  border-color: transparent; // Remove the border color
+}
