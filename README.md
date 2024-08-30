@@ -39,32 +39,57 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## `npm run both`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This command allows to run both frontend and backend at the same time. As the data has to be fetched form the databse and also getting stored in it the same time.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<hr/>
 
-### Code Splitting
+### Project Working Details
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<hr/>
 
-### Analyzing the Bundle Size
+Welcome to iNotebook, the ultimate platform for managing your notes effortlessly. iNotebook is a powerful, cloud-based note-taking application designed to help you stay organized and productive. Whether you’re a student, professional, or anyone in between, iNotebook offers a suite of features to streamline your note management:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Create an Account:
 
-### Making a Progressive Web App
+ Sign up quickly and easily to start using iNotebook. Your personal account ensures that all your notes are securely stored and accessible from anywhere.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ ### Secure Login:
 
-### Advanced Configuration
+  Log in to your account to access your notes anytime, anywhere. Your data is protected with robust security measures, ensuring your information remains private.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Add Notes:
 
-### Deployment
+ Create new notes with a few simple clicks. Add titles, descriptions, and tags to organize your thoughts and ideas effectively.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Edit Notes:
 
-### `npm run build` fails to minify
+ Make updates to your notes whenever you need to. iNotebook allows you to edit the content, keeping your information up-to-date.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Delete Notes:
+
+ Easily remove notes that are no longer needed. Manage your note collection with straightforward deletion options.
+
+### Cloud Storage:
+
+ All your notes are stored securely in the cloud, so you never have to worry about losing important information. Access your notes from any device, at any time.
+
+### `Login Page`
+
+![image](https://github.com/user-attachments/assets/25fa80da-4202-473e-920f-0d86f9ba7d8e)
+
+### `SignUp Page`
+
+![image](https://github.com/user-attachments/assets/8250bda8-8fa1-4777-8d84-2830e8e1451b)
+
+### `About Page`
+
+![image](https://github.com/user-attachments/assets/704c7c23-be8b-4879-bfd9-0b3b3ca43ebb)
+
+### `Notes Page`
+
+![image](https://github.com/user-attachments/assets/e92887ce-1dd5-4bb3-964e-eb73028b7fb0)
+
+
+
